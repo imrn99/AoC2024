@@ -5,3 +5,7 @@ executable day1
     main-is:          day1/main.hs
     build-depends:    base, containers, split
     default-language: Haskell2010
+executable day2
+    main-is:          day2/main.hs
+    build-depends:    base, containers, split
+    default-language: Haskell2010
